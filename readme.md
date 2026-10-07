@@ -1,2 +1,2 @@
 # TAMK G1 project
-![Architecture](arc.jpeg)
+![Architecture](pictures/arc.jpeg)
